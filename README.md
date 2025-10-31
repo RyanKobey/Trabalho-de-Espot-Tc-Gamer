@@ -1,3 +1,3 @@
-Thayroni Vitor
-Wagner Bruno
-Ryan kobey
+Thayroni Vitor,
+Wagner Bruno,
+Ryan kobey.
